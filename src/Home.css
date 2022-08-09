@@ -1,0 +1,163 @@
+.header{
+    padding-top: 80px;
+    padding-bottom: 25px
+}
+
+.myNavbar{
+    background-color: #E9EFF8
+}
+
+#banner{
+    padding-top: 80px;
+}
+
+#banner #text, #text1{
+    font-size: 40px;
+    margin: 0;
+    text-align: left;
+    font-weight: bolder;
+}
+
+#color{
+    color: blue;
+}
+
+#banner #paragraph1{
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+#button1{
+    background-color: blue;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.underBanner{
+    background-color: blue;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    height: 200px;
+    text-align: center;
+}
+
+.underBanner p{
+    padding-top: 70px;
+}
+
+.grid1 .g1-col1{
+    padding-left: 50px;
+}
+
+.grid1 .g2-col2{
+    padding-right: 50px;
+}
+
+.grid1{
+    padding-bottom: 30px
+}
+
+.grid2{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #E9EFF8
+}
+
+.text2{
+    font-size: 40px;
+    color: black;
+}
+
+.ourSolution{
+    font-size: 40px;
+    color: blue;
+}
+
+.text2 span{
+    color: blue;
+}
+
+.text{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.solution{
+    text-align: justify;
+}
+
+.grid2 .g1-col1{
+    margin-left: 120px;
+}
+
+.grid2 .g2-col2{
+    /* padding-right: 140px; */
+}
+
+.button{
+    background-color: blue;
+}
+
+.grid2 #g2-container{
+    padding-bottom: 30px;
+}
+
+.grid3{
+    padding-top: 50px;
+    /* background-color: #E9EFF8; */
+    padding-bottom: 60px;
+}
+
+.grid3 #g3-container3{
+    padding-bottom: 40px;
+}
+
+#g3-container3 col{
+    text-align: justify;
+}
+
+.grid4{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #E9EFF8
+}
+
+.input{
+    width: 300px;
+    padding: 6px 0 6px 8px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border: 1px solid #7B7B7B;
+}
+
+textarea{
+    border-radius: 8px;
+    border: 1px solid #7B7B7B;
+    padding-left: 10px;
+}
+
+.grid4 h4, h1{
+    text-align: left;
+}
+
+.grid4 h1{
+    color: black;
+    font-size: 60px;
+    padding-top: 130px;
+}
+
+.grid4 h1 span{
+    color: blue;
+}
+
+footer{
+    height: 40px;
+    background-color: blue;
+    font-size: 16px;
+    color: white;
+    padding: 10px 0
+}
